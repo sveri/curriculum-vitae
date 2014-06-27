@@ -29,7 +29,9 @@ I studied computer science from 2003 - 2010 in Leipzig at the http://www.htwk-le
 ## Interesting projects of mine on Github
 As I used github for a long time to collect ideas and stuff I may or may not work on there is a lot of noise here, so if someone wants to see some working code look at this:
 * [friend-ui](https://github.com/sveri/friend-ui) This is a frontend to cemericks friend library. It uses enlive and twitters bootstrap as main technologies
-* 
+* [PIX](https://github.com/sveri/webpics_grails) An online image viewer with a small set of functionality. I mainly did this as I found existing applications not sufficient or to feature rich.
+* [read-sensors](https://github.com/sveri/read-sensors) An example project that reads files from file system and stores their content in a HTML file.
+* [ZFP](https://github.com/sveri/ZFP) A caching library we developed at Druck und Werte to speed up the web application we developed there.
 
 ## Employments
 
