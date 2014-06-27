@@ -2,7 +2,7 @@
 
 ## Personal
 
-My name is Sven Richter. I was born in 1980 in Plauen, a nice and beautiful town in the former eastern Germany.  
+My name is Sven Richter. I was born in 1980 in Plauen, a nice and beautiful town in the former Eastern Germany.  
 Currently I live in Leipzig, working for itCampus GmbH.  
 My life is completed by a wonderful wife and a little on, which makes us a family of three.
 
@@ -10,7 +10,7 @@ My life is completed by a wonderful wife and a little on, which makes us a famil
 ## Interests:
 
 * Functional Programming (especially Clojure)
-* Programming (especially java, python, php)
+* OO Programming (especially JAVA, Python, PHP)
 * Interest in the avoidance of problems caused by state
 * Webfrontend technologies like GWT and several javascript libraries
 * Linux for a long time (since the mid-90ies)
@@ -28,8 +28,8 @@ I studied computer science from 2003 - 2010 in Leipzig at the http://www.htwk-le
 
 ## Interesting projects of mine on Github
 As I used github for a long time to collect ideas and stuff I may or may not work on there is a lot of noise here, so if someone wants to see some working code look at this:
-* [friend-ui](https://github.com/sveri/friend-ui) This is a frontend to cemericks friend library. It uses enlive and twitters bootstrap as main technologies
-* [PIX](https://github.com/sveri/webpics_grails) An online image viewer with a small set of functionality. I mainly did this as I found existing applications not sufficient or to feature rich.
+* [friend-ui](https://github.com/sveri/friend-ui) This is a frontend to cemericks friend library. It uses enlive and twitter bootstrap as main technologies.
+* [PIX](https://github.com/sveri/webpics_grails) An online image viewer with a small set of functionality (albums and user management). I mainly did this as I found existing applications not sufficient enough for my needs or to feature rich.
 * [read-sensors](https://github.com/sveri/read-sensors) An example project that reads files from file system and stores their content in a HTML file.
 * [ZFP](https://github.com/sveri/ZFP) A caching library we developed at Druck und Werte to speed up the web application we developed there.
 
