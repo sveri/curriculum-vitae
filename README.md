@@ -1,8 +1,8 @@
 # Resume
 
-**Sven Richter**
-Diplom-Informatiker (FH)
-_sveri80@gmail.com_
+**Sven Richter**  
+Diplom-Informatiker (FH)  
+_sveri80@gmail.com_  
 
 Result oriented and hard working team player. Several years of proven experience in different fields.
 Always eager to generate business value and help customers achieve their goals.
