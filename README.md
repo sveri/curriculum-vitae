@@ -1,12 +1,10 @@
 # Curriculum Vitae
 
-## Personal
+->**Sven Richter**<-
+->sveri80@gmail.com<-
 
-My name is Sven Richter. I was born in 1980 in Plauen, a nice and beautiful town in the former Eastern Germany.  
-Currently I live in Leipzig, working for itCampus GmbH.  
-My life is completed by a wonderful wife and a little on, which makes us a family of three.
+Result oriented and hard working team player.
 
-----
 ## Interests:
 
 * Functional Programming (especially Clojure)
@@ -65,3 +63,10 @@ Technologies used:
  * Doing several jobs as a webdesigner for small events like marriages and things
  * Coding a bookmark manager in java and swing, using xml for data storage for fun
  * Coding a cash programm for a little cafe in C++ with windows MFC
+
+
+## Personal
+
+My name is Sven Richter. I was born in 1980 in Plauen, a nice and beautiful town in the former Eastern Germany.
+Currently I live in Leipzig, working for itCampus GmbH.
+My life is completed by a wonderful wife and a little on, which makes us a family of three.
