@@ -59,7 +59,7 @@ application we developed there.
 
 ## Employments
 
-* 2011 – now: Software Engineer at <http://www.itcampus.eu/> in the Rules team where we work on the rules
+* 2011 – now: Senior Software Engineer at <http://www.itcampus.eu/> in the Rules team where we work on the rules
 feature for the Software AG webMethods Suite: <http://www.softwareag.com/de/products/wm/default.asp>.
 * 2010 – 2011: Software Developer at <http://druckundwerte.de> where we developed a SaaS application
 in the printing business: <http://zmuek.net>.
